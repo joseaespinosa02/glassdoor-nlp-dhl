@@ -18,3 +18,6 @@ Análisis de reseñas de Glassdoor para identificar fortalezas y áreas de mejor
 - Ventana común **jul-2018 → jun-2021**: DHL Supply Chain no tiene reseñas posteriores en el dataset.
 - Máximo 2.000 reseñas por empresa (semilla 42) para que UPS no domine el modelo de topics.
 
+## Presentación
+- [`presentacion/Presentacion_DHL_Glassdoor_NLP.pptx`](presentacion/Presentacion_DHL_Glassdoor_NLP.pptx), 14 diapositivas con notas del orador
+- [`presentacion/Presentacion_DHL_Glassdoor_NLP.pdf`](presentacion/Presentacion_DHL_Glassdoor_NLP.pdf), versión para ver en GitHub

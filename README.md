@@ -1,5 +1,7 @@
 # Diagnóstico de marca empleadora — DHL Supply Chain vs. peers
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joseaespinosa02/glassdoor-nlp-dhl/blob/main/Glassdoor_DHL_NLP.ipynb)
+
 Proyecto Modular 6 (NLP) · Máster en Data Science & IA · Evolve Academy
 
 Análisis de reseñas de Glassdoor para identificar fortalezas y áreas de mejora de **DHL Supply Chain** como empleador frente a **UPS, FedEx, MAERSK, DB-Schenker y Kuehne+Nagel**.
